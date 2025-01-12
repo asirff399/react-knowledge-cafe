@@ -11,7 +11,7 @@ const Blogs = () => {
     },[])
     return (
         <div className="w-2/3">
-            <h1>Blogs: {blogs.length}</h1>
+            {/* <h1>Blogs: {blogs.length}</h1> */}
             {
                 blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog>)
             }

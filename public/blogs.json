@@ -1,102 +1,102 @@
 [
-    {
+  {
       "id": 1,
       "title": "The Future of Technology",
       "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683574/blog10_zrfqlj.jpg",
       "author": "John Doe",
       "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683285/samples/man-portrait.jpg",
-      "created_at": "2025-01-01T10:00:00Z",
+      "created_at": "Jan 1 (11 Days ago)",
       "reading_time": 5,
       "hashtags": ["#technology", "#future", "#innovation"]
-    },
-    {
+  },
+  {
       "id": 2,
       "title": "The Art of Mindfulness",
       "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683568/blog9_pfedq6.jpg",
       "author": "Jane Smith",
       "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683285/samples/look-up.jpg",
-      "created_at": "2025-01-05T14:30:00Z",
+      "created_at": "Jan 5 (7 Days ago)",
       "reading_time": 7,
       "hashtags": ["#mindfulness", "#wellness", "#selfcare"]
-    },
-    {
+  },
+  {
       "id": 3,
       "title": "Exploring Space: A New Frontier",
       "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683561/blog8_bqfvsd.jpg",
       "author": "Alice Johnson",
       "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683284/samples/smile.jpg",
-      "created_at": "2025-01-07T08:15:00Z",
+      "created_at": "Jan 7 (5 Days ago)",
       "reading_time": 10,
       "hashtags": ["#space", "#science", "#exploration"]
-    },
-    {
+  },
+  {
       "id": 4,
       "title": "The Secret to Healthy Eating",
       "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683554/blog7_zgc9x2.jpg",
       "author": "Michael Brown",
       "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683277/samples/people/kitchen-bar.jpg",
-      "created_at": "2025-01-09T16:00:00Z",
+      "created_at": "Jan 9 (3 Days ago)",
       "reading_time": 6,
       "hashtags": ["#health", "#nutrition", "#lifestyle"]
-    },
-    {
+  },
+  {
       "id": 5,
       "title": "Mastering the Art of Programming",
       "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683547/blog6_gezxqd.avif",
       "author": "Emma Davis",
       "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683286/cld-sample.jpg",
-      "created_at": "2025-01-10T12:45:00Z",
+      "created_at": "Jan 10 (2 Days ago)",
       "reading_time": 8,
       "hashtags": ["#programming", "#coding", "#softwaredevelopment"]
-    },
-    {
-        "id": 6,
-        "title": "Unlocking the Secrets of AI",
-        "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683542/blog4_hfdsoi.jpg",
-        "author": "Sophia White",
-        "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683277/samples/people/smiling-man.jpg",
-        "created_at": "2025-01-11T09:20:00Z",
-        "reading_time": 9,
-        "hashtags": ["#AI", "#machinelearning", "#technology"]
-    },
-    {
-        "id": 7,
-        "title": "The Joy of Solo Travel",
-        "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683487/blog5_azoyhx.jpg",
-        "author": "Chris Evans",
-        "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683277/samples/people/boy-snow-hoodie.jpg",
-        "created_at": "2025-01-12T13:45:00Z",
-        "reading_time": 6,
-        "hashtags": ["#travel", "#adventure", "#wanderlust"]
-    },
-    {
-        "id": 8,
-        "title": "Designing a Sustainable Future",
-        "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683471/bgo3_dltsgt.avif",
-        "author": "Natalie Green",
-        "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683278/samples/people/bicycle.jpg",
-        "created_at": "2025-01-13T11:00:00Z",
-        "reading_time": 7,
-        "hashtags": ["#sustainability", "#design", "#environment"]
-    },
-    {
-        "id": 9,
-        "title": "The Rise of Electric Vehicles",
-        "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683463/blog2_lijmnp.avif",
-        "author": "Liam Taylor",
-        "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683285/samples/outdoor-woman.jpg",
-        "created_at": "2025-01-14T15:30:00Z",
-        "reading_time": 5,
-        "hashtags": ["#electricvehicles", "#technology", "#transportation"]
-    },
-    {
-        "id": 10,
-        "title": "Creative Writing: Finding Your Voice",
-        "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683342/amcvkb7yjnjupwbxzepk.jpg",
-        "author": "Olivia Brown",
-        "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683286/samples/woman-on-a-football-field.jpg",
-        "created_at": "2025-01-15T10:10:00Z",
-        "reading_time": 8,
-        "hashtags": ["#writing", "#creativity", "#authorslife"]
-    }
+  },
+  {
+      "id": 6,
+      "title": "Unlocking the Secrets of AI",
+      "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683542/blog4_hfdsoi.jpg",
+      "author": "Sophia White",
+      "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683277/samples/people/smiling-man.jpg",
+      "created_at": "Jan 11 (1 Day ago)",
+      "reading_time": 9,
+      "hashtags": ["#AI", "#machinelearning", "#technology"]
+  },
+  {
+      "id": 7,
+      "title": "The Joy of Solo Travel",
+      "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683487/blog5_azoyhx.jpg",
+      "author": "Chris Evans",
+      "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683277/samples/people/boy-snow-hoodie.jpg",
+      "created_at": "Jan 12 (Today)",
+      "reading_time": 6,
+      "hashtags": ["#travel", "#adventure", "#wanderlust"]
+  },
+  {
+      "id": 8,
+      "title": "Designing a Sustainable Future",
+      "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683471/bgo3_dltsgt.avif",
+      "author": "Natalie Green",
+      "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683278/samples/people/bicycle.jpg",
+      "created_at": "Jan 13 (Tomorrow)",
+      "reading_time": 7,
+      "hashtags": ["#sustainability", "#design", "#environment"]
+  },
+  {
+      "id": 9,
+      "title": "The Rise of Electric Vehicles",
+      "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683463/blog2_lijmnp.avif",
+      "author": "Liam Taylor",
+      "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683285/samples/outdoor-woman.jpg",
+      "created_at": "Jan 14 (2 Days later)",
+      "reading_time": 5,
+      "hashtags": ["#electricvehicles", "#technology", "#transportation"]
+  },
+  {
+      "id": 10,
+      "title": "Creative Writing: Finding Your Voice",
+      "cover_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683342/amcvkb7yjnjupwbxzepk.jpg",
+      "author": "Olivia Brown",
+      "author_img": "https://res.cloudinary.com/dcirhpvgi/image/upload/v1736683286/samples/woman-on-a-football-field.jpg",
+      "created_at": "Jan 15 (3 Days later)",
+      "reading_time": 8,
+      "hashtags": ["#writing", "#creativity", "#authorslife"]
+  }
 ]
