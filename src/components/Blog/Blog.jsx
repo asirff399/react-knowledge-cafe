@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-// import { MdBookmarkAdd } from "react-icons/md";
 import { MdOutlineBookmarkAdd } from "react-icons/md";
 
 const Blog = ({blog,handleAddToBookmarkes}) => {
@@ -19,7 +18,7 @@ const Blog = ({blog,handleAddToBookmarkes}) => {
                 </div>
                 <div className='flex gap-2'>
                     <p className='my-auto'>{reading_time} min read</p>
-                    <button onClick={handleAddToBookmarkes} className='text-2xl'><MdOutlineBookmarkAdd /></button>
+                    <button onClick={() => handleAddToBookmarkes(blog)} className='text-2xl'><MdOutlineBookmarkAdd /></button>
                 </div>
             </div>
             <h2 className="text-4xl font-bold my-5">{title}</h2>
