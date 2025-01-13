@@ -1,5 +1,8 @@
 import PropTypes from 'prop-types';
-const Blog = ({blog}) => {
+// import { MdBookmarkAdd } from "react-icons/md";
+import { MdOutlineBookmarkAdd } from "react-icons/md";
+
+const Blog = ({blog,handleAddToBookmarkes}) => {
     const {title,cover_img,author,author_img,created_at,reading_time,hashtags} = blog;
     return (
         <div className="p-2 border-b mb-5">
@@ -16,13 +19,13 @@ const Blog = ({blog}) => {
                 </div>
                 <div className='flex gap-2'>
                     <p className='my-auto'>{reading_time} min read</p>
-                    <button>Marked</button>
+                    <button onClick={handleAddToBookmarkes} className='text-2xl'><MdOutlineBookmarkAdd /></button>
                 </div>
             </div>
             <h2 className="text-4xl font-bold my-5">{title}</h2>
             <p className='my-5'>
                 {
-                    hashtags.map(hash=> <span key={title}><a className='text-slate-500' href="">{hash} </a></span>)
+                    hashtags.map((hash,idx)=> <span key={idx}><a className='text-slate-500' href="">{hash} </a></span>)
                 }
             </p>
             <p className='mb-3'><a href="">Mark as read</a></p>
@@ -32,6 +35,7 @@ const Blog = ({blog}) => {
 
 Blog.propTypes = {
     blog: PropTypes.array.isRequired,
+    handleAddToBookmarkes: PropTypes.func.isRequired,
 }
 
 export default Blog;
